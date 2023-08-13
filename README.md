@@ -1,1 +1,1 @@
-# AWS Community Day India, Virtual Edition - 2022
+# AWS Community Day Bengaluru, Virtual Edition - 2024
