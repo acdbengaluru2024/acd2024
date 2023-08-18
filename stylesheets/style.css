@@ -2982,7 +2982,7 @@ th, td {
 #page .section-6 .volunteers .vl-i .person[data-fname="Vivek Raja"] .img {
   background-image: url(../images/vols/vivek-raja.jpeg);
 }
-#page .section-6 .volunteers .vl-i .person[data-fname="VijayaNirmala"] .img {
+#page .section-6 .volunteers .vl-i .person[data-fname="Vijaya"] .img {
   background-image: url(../images/speakers/sessions/vijayanirmalakumar.png);
 }
 #page .section-6 .volunteers .vl-i .person[data-fname="Ramya"] .img {
@@ -3042,6 +3042,11 @@ th, td {
 #page .section-6 .volunteers .vl-i .person[data-fname="Toshal"] .img {
   background-image: url(../images/vols/Toshal.jpg);
 }
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Sankara"] .img {
+  background-image: url(../images/vols/Sankara.jpeg);
+}
+
 #page .section-9 .ambassadors .vl-i .person[data-fname="Kumar"] .img {
   background-image: url(../images/ambs/kumar_harsh.jpg);
   background-size: cover;
