@@ -2867,87 +2867,15 @@ th, td {
   }
 }
 
-/* line 994, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ankit Kumar"] .img {
-  background-image: url(../images/vols/ankit_kumar_gupta.jpeg);
-}
 
-/* line 997, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Anurag"] .img {
-  background-image: url(../images/vols/Anurag.png);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Amandeep"] .img {
-  background-image: url(../images/vols/Amandeep.png);
-}
 
 /* line 1000, ../sass/shared/_home.scss */
 #page .section-6 .volunteers .vl-i .person[data-fname="Bhuvaneswari"] .img {
-  background-image: url(../images/vols/Bhuvaneswari.png);
+  background-image: url(../images/vols/acd-bengaluru-2024/Bhuvaneswari-Subramani.jpg);
 }
 
-/* line 1003, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Dhaval"] .img {
-  background-image: url(../images/vols/Dhaval.png);
-}
-
-/* line 1006, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Dijeesh"] .img {
-  background-image: url(../images/vols/Dijeesh.png);
-}
-
-/* line 1009, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Dipali"] .img {
-  background-image: url(../images/vols/Dipali.png);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Dhruv"] .img {
-  background-image: url(../images/vols/Dhruv_Aggarwal.png);
-}
-
-/* line 1012, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Gaurav"] .img {
-  background-image: url(../images/vols/Gaurav.png);
-}
-
-/* line 1015, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Gokul"] .img {
-  background-image: url(../images/vols/Gokul.png);
-}
-
-/* line 1018, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Jayesh"] .img {
-  background-image: url(../images/vols/Jayesh.png);
-}
-
-/* line 1021, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Jeevan"] .img {
-  background-image: url(../images/vols/Jeevan.png);
-}
-
-/* line 1024, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Nilesh"] .img {
-  background-image: url(../images/vols/Nilesh.png);
-}
-
-/* line 1027, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Parthasarathi"] .img {
-  background-image: url(../images/vols/Parthasarathi.png);
-}
-
-/* line 1030, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="PhaniKumar"] .img {
-  background-image: url(../images/vols/PhaniKumar.png);
-}
-
-/* line 1033, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ragavendran"] .img {
-  background-image: url(../images/vols/Ragavendra.jpg);
-}
-
-/* line 1036, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Sathyajith"] .img {
-  background-image: url(../images/vols/Sathyajith.png);
+#page .section-6 .volunteers .vl-i .person[data-fname="Jones Zachariah"] .img {
+  background-image: url(../images/vols/acd-bengaluru-2024/Jones.jpeg);
 }
 
 /* line 1039, ../sass/shared/_home.scss */
@@ -2955,96 +2883,40 @@ th, td {
   background-image: url(../images/vols/Sridevi.png);
 }
 
-#page .section-6 .volunteers .vl-i .person[data-fname="Srushith"] .img {
-  background-image: url(../images/vols/srushith.jpeg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Rajat"] .img {
-  background-image: url(../images/vols/rajat-arora.jpeg);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Gagan"] .img {
-  background-image: url(../images/vols/gagan_gowri.jpeg);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Gaurav Kamboj"] .img {
-  background-image: url(../images/vols/Gaurav.png);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Hari priya"] .img {
-  background-image: url(../images/vols/hari-priya.jpeg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Abutahir"] .img {
-  background-image: url(../images/vols/abu-tahir.jpeg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Ritesh"] .img {
-  background-image: url(../images/vols/ritesh.jpeg);
-}
 #page .section-6 .volunteers .vl-i .person[data-fname="Vivek Raja"] .img {
-  background-image: url(../images/vols/vivek-raja.jpeg);
+  background-image: url(../images/vols/acd-bengaluru-2024/Vivek.jpeg);
 }
-#page .section-6 .volunteers .vl-i .person[data-fname="Vijaya"] .img {
-  background-image: url(../images/speakers/sessions/vijayanirmalakumar.png);
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Ayyanar"] .img {
+  background-image: url(../images/vols/acd-bengaluru-2024/Ayyanar-Jeyakrishnan.jpg);
 }
+
 #page .section-6 .volunteers .vl-i .person[data-fname="Ramya"] .img {
   background-image: url(../images/vols/ramya.jpeg);
 }
 
-#page .section-6 .volunteers .vl-i .person[data-fname="Sanchit"] .img {
-  background-image: url(../images/vols/sanchit-jain.jpeg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Nipun"] .img {
-  background-image: url(../images/vols/nipun-parek.jpeg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Jatin"] .img {
-  background-image: url(../images/vols/jatin.jpeg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Neetu"] .img {
-  background-image: url(../images/vols/neetu-mallan.jpeg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Sabarinath"] .img {
-  background-image: url(../images/vols/sabarinath.jpeg);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Tajinder"] .img {
-  background-image: url(../images/vols/tajinder.jpeg);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Parth Purvesh"] .img {
-  background-image: url(../images/vols/parth-purvesh.jpeg);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Piyush Jalan"] .img {
-  background-image: url(../images/vols/piyush.jpg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Vedant"] .img {
-  background-image: url(../images/vols/vedanth.jpeg);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Vibhu"] .img {
-  background-image: url(../images/vols/vibhu.jpeg);
-}
-
-/* line 1042, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Sukanya"] .img {
-  background-image: url(../images/vols/Sukanya.png);
-}
-
-#page .section-6 .volunteers .vl-i .person[data-fname="Subhradip"] .img {
-  background-image: url(../images/vols/subhradip.jpeg);
-}
-
-
 #page .section-6 .volunteers .vl-i .person[data-fname="Avinash"] .img {
   background-image: url(../images/vols/avinash.jpeg);
-}
-#page .section-6 .volunteers .vl-i .person[data-fname="Toshal"] .img {
-  background-image: url(../images/vols/Toshal.jpg);
 }
 
 #page .section-6 .volunteers .vl-i .person[data-fname="Sankara"] .img {
   background-image: url(../images/vols/Sankara.jpeg);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Ranjinni"] .img {
+  background-image: url(../images/vols/acd-bengaluru-2024/Ranjinni-Joshe.jpeg)
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Ramya"] .img {
+  background-image: url(../images/vols/acd-bengaluru-2024/Ramya.JPG)
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Abishek"] .img {
+  background-image: url(../images/vols/acd-bengaluru-2024/Abishek-Subramanian.jpeg)
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Vijayabalan"] .img {
+  background-image: url(../images/vols/acd-bengaluru-2024/Vijayabalan-Balakrishnan.jpeg)
 }
 
 #page .section-9 .ambassadors .vl-i .person[data-fname="Kumar"] .img {
