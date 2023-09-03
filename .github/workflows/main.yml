@@ -52,6 +52,5 @@ jobs:
 
       - name: serverless deploy
         run: |
-          npm run build
           sls deploy --stage prod
           sls client deploy --no-confirm --stage prod
