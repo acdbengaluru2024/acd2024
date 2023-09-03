@@ -35,7 +35,7 @@ resources:
       Type: AWS::S3::BucketPolicy
       DependsOn:
         - WebAppS3Bucket
-        - WebAppCloudFrontOriginAccessIdentity
+        # - WebAppCloudFrontOriginAccessIdentity
       Properties:
         Bucket:
           Ref: WebAppS3Bucket
