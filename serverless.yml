@@ -16,9 +16,9 @@ custom:
     distributionFolder: /
     manageResources: false
   cloudfrontInvalidate:
-    distributionIdKey: 'CDNDistributionId' #conditional, distributionId or distributionIdKey is required.
-    items: # one or more paths required
-      - '/*'
+    - distributionIdKey: 'CDNDistributionId' #conditional, distributionId or distributionIdKey is required.
+      items: # one or more paths required
+        - '/*'
 
 resources:
   Resources:
