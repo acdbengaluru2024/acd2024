@@ -31,11 +31,10 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       # Runs a single command using the runners shell
-      - name: Create dist
+      - name: Copy files to dist
         run: |
-         mkdir -p dist
-         rsync -av --exclude='dist/' ./ /dist/
-         ls dist
+          mkdir dist
+          rsync -av --progress . dist --exclude dist
 
       # Runs a single command using the runners shell
       - name: Install Dependencies
