@@ -33,9 +33,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Create dist
         run: |
-          mkdir dist
-          cp -r * dist
-          ls /dist
+         mkdir /dist
+         cp -r * /dist
+         ls /dist
 
       # Runs a single command using the runners shell
       - name: Install Dependencies
