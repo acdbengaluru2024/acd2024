@@ -34,7 +34,7 @@ jobs:
       - name: Copy files to dist
         run: |
           mkdir dist
-          rsync -av --progress . dist --exclude dist
+          rsync -av . dist --exclude dist
 
       # Runs a single command using the runners shell
       - name: Install Dependencies
