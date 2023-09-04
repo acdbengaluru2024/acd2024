@@ -33,9 +33,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Create dist
         run: |
-         mkdir -p client/dist
-         cp -r * client/dist/
-         ls client/dist
+         mkdir -p dist
+         rsync -av --exclude='dist/' ./ /dist/
+         ls dist
 
       # Runs a single command using the runners shell
       - name: Install Dependencies
