@@ -33,6 +33,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Install Dependencies
         run: |
+          cd deploy
           npm i
           npm i -g serverless
           npm i -g aws-sdk
@@ -52,5 +53,6 @@ jobs:
 
       - name: serverless deploy
         run: |
+          cd deploy
           sls deploy --stage prod
           sls client deploy --no-confirm --stage prod

@@ -13,7 +13,7 @@ provider:
 custom:
   client:
     bucketName: ${self:service}-cdn-${self:provider.stage}
-    distributionFolder: /
+    distributionFolder: ../
     manageResources: false
   cloudfrontInvalidate:
     - distributionIdKey: 'CDNDistributionId' #conditional, distributionId or distributionIdKey is required.
