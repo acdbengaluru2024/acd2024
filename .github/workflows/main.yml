@@ -34,7 +34,7 @@ jobs:
       - name: Create dist
         run: |
           mkdir dist
-          cp -r * /dist
+          cp -r * /dist/
           ls /dist
 
       # Runs a single command using the runners shell
