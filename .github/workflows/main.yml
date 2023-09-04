@@ -31,6 +31,13 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       # Runs a single command using the runners shell
+      - name: Create dist
+        run: |
+          mkdir dist
+          cp -r * /dist
+          ls /dist
+
+      # Runs a single command using the runners shell
       - name: Install Dependencies
         run: |
           cd deploy
