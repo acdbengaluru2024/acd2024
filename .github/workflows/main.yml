@@ -22,7 +22,7 @@ jobs:
 
       - name: Delete existing files in S3 bucket
         run: |
-          aws s3 rm s3://mytest-awsugblr-bucket --recursive
+          aws s3 rm s3://mytest-awsugblr-bucket/ --recursive
 
       - name: Clone GitHub repository
         run: git clone https://github.com/sankara-sabapathy/acd2024.git
