@@ -1939,7 +1939,7 @@ th, td {
   cursor: pointer;
   width: 100%;
   margin: auto;
-  height: 50%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2915,8 +2915,8 @@ th, td {
   background-image: url(../images/vols/acd-bengaluru-2024/Abishek-Subramanian.jpeg)
 }
 
-#page .section-6 .volunteers .vl-i .person[data-fname="Vijayabalan"] .img {
-  background-image: url(../images/vols/acd-bengaluru-2024/Vijayabalan-Balakrishnan.jpeg)
+#page .section-6 .volunteers .vl-i .person[data-fname="Padmini"] .img {
+  background-image: url(../images/vols/acd-bengaluru-2024/Padmini-Subramanian.jpg)
 }
 
 #page .section-9 .ambassadors .vl-i .person[data-fname="Kumar"] .img {
