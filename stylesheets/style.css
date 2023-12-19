@@ -2030,7 +2030,7 @@ th, td {
   /* line 522, ../sass/shared/_home.scss */
   #page .section-3 .right .right_in>div {
     padding: 0 15px;
-    width: 50%;
+    width: 100%;
     height: auto;
   }
 }
