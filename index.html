@@ -161,9 +161,9 @@
       </div>
       <div id="nav-bar">
         <p id="toggle"><span></span></p>
-        <!-- <li class="spec">
-          <a class="buy-ticket-link disabled button" >Sold Out</a>
-        </li> -->
+        <li class="spec">
+          <a class="buy-ticket-link button" >Register Your Interest</a>
+        </li>
         <ul>
           <!-- <li>
             <a href="#home" style="background-color: red; font-size: 2em; font-weight: bold;">LIVE</a>
@@ -1340,12 +1340,12 @@
 
               <p>
               <h2>Proposal Submission</h2>
-              <p>Start Date : December 25th 2023</p>
-              <p>End Date: January 16th 2024</p>
+              <p>Start Date : January 1st 2023</p>
+              <p>End Date: January 20th 2024</p>
               </p>
               <div>
                 <div class="f1">
-                  <a href="https://sessionize.com/aws-community-day-usergroup-blr-2024" target="_blank" class="button large">Submit your proposal</a>
+                  <a href="https://sessionize.com/aws-community-day-usergroup-blr-2024" target="_blank" class="button large">Submit your proposal</a> 
                 </div>
               </div>
             </div>
@@ -2139,11 +2139,11 @@
   <!-- getting utm parameter and passing to konfhub start -->
   <script>
     $(".buy-ticket-link").on("click", () => {
-      checkForUtmAvilableOrNot(decodeURIComponent(location.href)).then((formResolve) => {
-        window.open("https://konfhub.com/awsdaysblr?" + formResolve, "_blank");
-      }).catch((fromReject) => {
-        window.open("https://konfhub.com/awsdaysblr", "_blank");
-      });
+      // checkForUtmAvilableOrNot(decodeURIComponent(location.href)).then((formResolve) => {
+        window.open("https://konfhub.com/widget/acdbc", "_blank");
+      // }).catch((fromReject) => {
+      //   window.open("https://konfhub.com/awsdaysblr", "_blank");
+      // });
     });
 
     let checkForUtmAvilableOrNot = (_currentUrl) => {
