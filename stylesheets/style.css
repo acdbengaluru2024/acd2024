@@ -2368,8 +2368,8 @@ th, td {
 }
 
 /* line 736, ../sass/shared/_home.scss */
-#page .section-5 .sponsors .cats .flex-it .f1>div:not(.head).elastic {
-  background-image: url(../images/spons/elastic.jpg);
+#page .section-5 .sponsors .cats .flex-it .f1>div:not(.head).SLSG {
+  background-image: url(../images/spons/Logo-Serverless-Guru.svg);
 }
 
 /* line 739, ../sass/shared/_home.scss */
