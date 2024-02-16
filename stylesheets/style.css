@@ -2927,6 +2927,10 @@ th, td {
   background-image: url(../images/vols/acd-bengaluru-2024/Vijaya-Nirmala-Gopal.jpeg)
 }
 
+#page .section-6 .volunteers .vl-i .person[data-fname="Piyush"] .img {
+  background-image: url(../images/vols/acd-bengaluru-2024/Piyush-Jalan.jpg)
+}
+
 #page .section-9 .ambassadors .vl-i .person[data-fname="Kumar"] .img {
   background-image: url(../images/ambs/kumar_harsh.jpg);
   background-size: cover;
