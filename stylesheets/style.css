@@ -2368,13 +2368,13 @@ th, td {
 }
 
 /* line 736, ../sass/shared/_home.scss */
-#page .section-5 .sponsors .cats .flex-it .f1>div:not(.head).SLSG {
+#page .section-5 .sponsors .cats .flex-it .f1>div:not(.head).SLSGuru {
   background-image: url(../images/spons/Logo-Serverless-Guru.svg);
 }
 
 /* line 739, ../sass/shared/_home.scss */
-#page .section-5 .sponsors .cats .flex-it .f1>div:not(.head).postman {
-  background-image: url(../images/spons/postman.jpg);
+#page .section-5 .sponsors .cats .flex-it .f1>div:not(.head).MongoDB {
+  background-image: url(../images/spons/MongoDB_Fores-Green.svg);
 }
 
 /* line 742, ../sass/shared/_home.scss */
