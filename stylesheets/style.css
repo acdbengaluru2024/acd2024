@@ -3691,6 +3691,10 @@ i.icon.large {
   color: #fff;
 }
 
+button.reg-button {
+  line-height: inherit;
+}
+
 .btn-register-agenda {
   width: 147px;
   background: #ff9900;
