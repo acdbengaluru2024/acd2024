@@ -2382,6 +2382,11 @@ th, td {
   background-image: url(../images/spons/new_relic_logo_horizontal.png);
 }
 
+/* line 739, ../sass/shared/_home.scss */
+#page .section-5 .sponsors .cats .flex-it .f1>div:not(.head).Snowflake {
+  background-image: url(../images/spons/snowflake-logo-color-rgb.png);
+}
+
 /* line 742, ../sass/shared/_home.scss */
 #page .section-5 .sponsors .cats .flex-it .f1>div:not(.head).whizlabs {
   background-image: url(../images/spons/whizlabs-logo.png);
